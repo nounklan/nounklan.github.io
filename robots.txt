@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nounklan.github.io/nounklan.txt.gz
+Sitemap: https://nounklan.github.io/app/nounklan.txt.gz
+Sitemap: https://nounklan.github.io/assets/nounklan.txt.gz
+Sitemap: https://nounklan.github.io/css/nounklan.txt.gz
+Sitemap: https://nounklan.github.io/includes/nounklan.txt.gz
+Sitemap: https://nounklan.github.io/item/nounklan.txt.gz
+Sitemap: https://nounklan.github.io/src/nounklan.txt.gz
